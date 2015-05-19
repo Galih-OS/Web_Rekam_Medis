@@ -1,0 +1,6 @@
+perhatian
+untuk databasenya sesuaikan dengan file config.php
+langkah"
+buat database 
+nama database: kuliah
+setelah itu imporrt table kuliah.sql
